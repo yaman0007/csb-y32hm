@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e8f7354cf0a61269af1872e69dea804",
+    "revision": "d56da086569c4033e822a0fa191ef12d",
     "url": "https://yaman0007.github.io/csb-y32hm/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://yaman0007.github.io/csb-y32hm/static/js/2.488d5a42.chunk.js"
   },
   {
-    "revision": "44a1af8298c289492666",
-    "url": "https://yaman0007.github.io/csb-y32hm/static/js/main.94c03741.chunk.js"
+    "revision": "9bc7959c2c5a51bd6432",
+    "url": "https://yaman0007.github.io/csb-y32hm/static/js/main.c05ad89e.chunk.js"
   },
   {
     "revision": "a0576fd2a9ef140585bd",

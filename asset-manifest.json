@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "https://yaman0007.github.io/csb-y32hm/static/js/main.94c03741.chunk.js",
-    "main.js.map": "https://yaman0007.github.io/csb-y32hm/static/js/main.94c03741.chunk.js.map",
+    "main.js": "https://yaman0007.github.io/csb-y32hm/static/js/main.c05ad89e.chunk.js",
+    "main.js.map": "https://yaman0007.github.io/csb-y32hm/static/js/main.c05ad89e.chunk.js.map",
     "runtime-main.js": "https://yaman0007.github.io/csb-y32hm/static/js/runtime-main.79cacc03.js",
     "runtime-main.js.map": "https://yaman0007.github.io/csb-y32hm/static/js/runtime-main.79cacc03.js.map",
     "static/css/2.3661fc73.chunk.css": "https://yaman0007.github.io/csb-y32hm/static/css/2.3661fc73.chunk.css",
     "static/js/2.488d5a42.chunk.js": "https://yaman0007.github.io/csb-y32hm/static/js/2.488d5a42.chunk.js",
     "static/js/2.488d5a42.chunk.js.map": "https://yaman0007.github.io/csb-y32hm/static/js/2.488d5a42.chunk.js.map",
     "index.html": "https://yaman0007.github.io/csb-y32hm/index.html",
-    "precache-manifest.8879f5ca65df1a549e091e651ba0695c.js": "https://yaman0007.github.io/csb-y32hm/precache-manifest.8879f5ca65df1a549e091e651ba0695c.js",
+    "precache-manifest.1cc1c3e546ca79b7d89c870b84149b23.js": "https://yaman0007.github.io/csb-y32hm/precache-manifest.1cc1c3e546ca79b7d89c870b84149b23.js",
     "service-worker.js": "https://yaman0007.github.io/csb-y32hm/service-worker.js",
     "static/css/2.3661fc73.chunk.css.map": "https://yaman0007.github.io/csb-y32hm/static/css/2.3661fc73.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.79cacc03.js",
     "static/css/2.3661fc73.chunk.css",
     "static/js/2.488d5a42.chunk.js",
-    "static/js/main.94c03741.chunk.js"
+    "static/js/main.c05ad89e.chunk.js"
   ]
 }
